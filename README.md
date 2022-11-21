@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align-"center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=7246374ac9c633f13c257ed07bd6053d425f4267d42db78ec19c6cc7c0872b0a&ipo=images" width="100%">
+<img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=7246374ac9c633f13c257ed07bd6053d425f4267d42db78ec19c6cc7c0872b0a&ipo=images" width="100%">
 
 <h1 align="center">Hi 👋, I'm Kapil Khursade</h1>
 <h3 align="center">Full Stack Web Developer With Touch Of Creativty.</h3>
